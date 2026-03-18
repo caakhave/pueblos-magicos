@@ -1,0 +1,33 @@
+@import "leaflet/dist/leaflet.css";
+
+.mexico-map-widget {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #0f172a;
+  z-index: 0;
+}
+
+.mexico-map-widget .leaflet-container {
+  background: #0f172a !important;
+  font-family: inherit;
+  width: 100%;
+  height: 100%;
+}
+
+.mexico-map-widget .custom-tooltip {
+  background-color: #1f2937 !important;
+  color: white !important;
+  border: 1px solid #374151 !important;
+  border-radius: 0.5rem !important;
+  padding: 0.75rem !important;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04) !important;
+  font-family: inherit !important;
+}
+
+.mexico-map-widget .custom-tooltip::before {
+  border-top-color: #1f2937 !important;
+  border-bottom-color: #1f2937 !important;
+  border-left-color: #1f2937 !important;
+  border-right-color: #1f2937 !important;
+}
