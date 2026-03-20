@@ -18,7 +18,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen flex flex-col bg-fresco-cream">
+    <div className="h-screen flex flex-col bg-fresco-cream">
       <Header lang={lang} onLangChange={setLang} />
       <StateDropdown
         pueblos={pueblos}
@@ -27,12 +27,9 @@ export default function App() {
         lang={lang}
       />
 
-      <main className="flex-1 flex flex-col">
+      <main className="flex-1 flex flex-col min-h-0">
         {selectedState === null ? (
-          <div
-            className="w-full"
-            style={{ minHeight: '300px', height: '65vh', maxHeight: '70vh' }}
-          >
+          <div className="flex-1 w-full min-h-0">
             <MexicoMapWidget />
           </div>
         ) : (

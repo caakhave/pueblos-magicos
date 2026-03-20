@@ -26,20 +26,20 @@ export default function PuebloList({ stateKey, pueblos, lang, onBack }: Props) {
         <div className="flex items-center gap-4 mb-6">
           <button
             onClick={onBack}
-            className="text-sm font-medium text-georgian-blue hover:text-daring transition-colors"
+            className="text-sm font-medium text-cherry-tomato hover:text-cherry-tomato/70 transition-colors"
           >
             {t.backToMap}
           </button>
           <h2 className="font-playfair text-2xl font-bold text-tricorn-black">
             {stateName}
           </h2>
-          <span className="text-sm text-dormer-brown">
+          <span className="text-base font-medium text-cherry-tomato -ml-2">
             ({filtered.length})
           </span>
         </div>
 
         {/* Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {filtered.map((pueblo) => (
             <PuebloCard key={pueblo.id} pueblo={pueblo} lang={lang} />
           ))}

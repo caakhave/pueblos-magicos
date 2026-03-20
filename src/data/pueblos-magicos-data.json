@@ -7,8 +7,8 @@
       "stateKey": "aguascalientes",
       "lat": 21.8467,
       "lng": -102.7186,
-      "elevation": null,
-      "population": null,
+      "elevation": 1640,
+      "population": 58250,
       "image": "calvillo-aguascalientes.jpeg",
       "description": {
         "en": "A Mountain Escape of Guavas and Crafts Nestled in Aguascalientes, Calvillo is a scenic town widely celebrated as the guava capital of Mexico, featuring sprawling orchards and a picturesque main plaza dotted with orange trees. Beyond its agricultural fame, the town is renowned for its intricate deshilado (openwork) embroidery, a delicate craft passed down through generations. Visitors can explore a 17th-century church packed with historic art, visit nearby Aztec ruins, or enjoy outdoor recreation and ecotourism at the Malpaso Dam.",
@@ -22,9 +22,9 @@
       "stateKey": "aguascalientes",
       "lat": 22.1432,
       "lng": -102.2741,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1914,
+      "population": 35000,
+      "image": "pabellon-de-hidalgo-guascalientes.jpeg",
       "description": {
         "en": "A Historic Independence Hub Located in the state of Aguascalientes, Pabellón de Hidalgo is a quiet destination deeply connected to the nation's fight for independence. Visitors come to explore its rich past, most notably by visiting the Museum of the Insurgency, which highlights the town's proud historical legacy.",
         "es": "Un núcleo histórico de la Independencia. Ubicado en el estado de Aguascalientes, Pabellón de Hidalgo es un destino tranquilo profundamente ligado a la lucha por la independencia de México. Los visitantes llegan para explorar su rica historia, especialmente a través del Museo de la Insurgencia, que resalta el legado histórico y el orgullo de este importante lugar."
@@ -37,9 +37,9 @@
       "stateKey": "aguascalientes",
       "lat": 22.2372,
       "lng": -102.0904,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2100,
+      "population": 38000,
+      "image": "real-de-asientos-aguascalientes.jpeg",
       "description": {
         "en": "A Subterranean Mining Mystery. Known for underground tunnels and mining history.",
         "es": "Un misterio subterráneo minero. Famoso por sus túneles y su pasado minero."
@@ -52,9 +52,9 @@
       "stateKey": "aguascalientes",
       "lat": 22.1504,
       "lng": -102.4197,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2000,
+      "population": 20000,
+      "image": "san-jose-de-gracia-aguascalientes.jpeg",
       "description": {
         "en": "The Home of the Broken Christ San José de Gracia in Aguascalientes is a popular destination for outdoor adventure and deep spiritual reflection. The town's absolute centerpiece is the magnificent \"Broken Christ\" (Cristo Roto), a towering 25-meter sculpture situated on an island in the Plutarco Elías Calles dam. Travelers and pilgrims love to take a boat ride across the water to see this symbol of resilience and enjoy the surrounding natural landscapes.",
         "es": "El hogar del Cristo Roto. San José de Gracia, en Aguascalientes, es un destino ideal tanto para la aventura al aire libre como para la reflexión espiritual. Su principal atractivo es el majestuoso Cristo Roto, una impresionante escultura de 25 metros ubicada en una isla dentro de la presa Plutarco Elías Calles. Visitantes y peregrinos disfrutan de cruzar en lancha para contemplar este poderoso símbolo de resiliencia y admirar los paisajes naturales que lo rodean."
@@ -67,9 +67,9 @@
       "stateKey": "baja-california",
       "lat": 32.5747,
       "lng": -116.6275,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 515,
+      "population": 105000,
+      "image": "tecate-baja-california.jpeg",
       "description": {
         "en": "Border Charm and Brewery Fame. Known for its beer and wellness retreats.",
         "es": "Encanto fronterizo y fama cervecera. Tecate es conocido por su cerveza y spas."
@@ -82,9 +82,9 @@
       "stateKey": "baja-california-sur",
       "lat": 26.0127,
       "lng": -111.3474,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 10,
+      "population": 16311,
+      "image": "loreto-baja-california-sur.jpeg",
       "description": {
         "en": "Missions and Marine Life. Located in Baja California Sur, Loreto offers historic missions and incredible marine biodiversity.",
         "es": "Misiones y vida marina. En Baja California Sur, Loreto combina historia misional con riqueza natural marina."
@@ -97,9 +97,9 @@
       "stateKey": "baja-california-sur",
       "lat": 27.3364,
       "lng": -112.2665,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 15000,
+      "image": "santa-rosalia-baja-california-sur.jpeg",
       "description": {
         "en": "A Touch of France in Mexico. Located in Baja California Sur, known for its French-style architecture and Eiffel-designed church.",
         "es": "Un toque francés en México. En Baja California Sur, Santa Rosalía destaca por su arquitectura francesa y su iglesia diseñada por Eiffel."
@@ -112,9 +112,9 @@
       "stateKey": "baja-california-sur",
       "lat": 23.446,
       "lng": -110.2265,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 50,
+      "population": 8000,
+      "image": "todos-santos-baja-california-sur.jpeg",
       "description": {
         "en": "A Bohemian Desert Oasis. Known for art, surfing, and coastal charm.",
         "es": "Un oasis bohemio. Todos Santos destaca por su arte, surf y encanto costero."
@@ -127,9 +127,9 @@
       "stateKey": "campeche",
       "lat": 18.1828,
       "lng": -91.0441,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 38,
+      "population": 25000,
+      "image": "candelaria-campeche.jpeg",
       "description": {
         "en": "A Sleepy Town with Revolutionary History. Candela in Coahuila offers a peaceful escape with a touch of Mexican Revolution history, plus nearby natural attractions for eco-tourism.",
         "es": "Un pueblo tranquilo con historia revolucionaria. Candela, en Coahuila, ofrece una escapada relajada con historia y opciones de ecoturismo en sus alrededores naturales."
@@ -142,9 +142,9 @@
       "stateKey": "campeche",
       "lat": 18.7854,
       "lng": -91.4617,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2,
+      "population": 6000,
+      "image": "isla-aguada-campeche.jpeg",
       "description": {
         "en": "A Pirate's Haven Turned Coastal Paradise Set on a coastal island in the Gulf of Mexico, Isla Aguada in Campeche is a beautiful fishing village that once served as a home base for 18th-century pirates. Today, it is a tranquil escape featuring quiet beaches and lush mangroves, offering fantastic boat tours. Nature lovers flock here to spot exotic birds and enjoy incredible dolphin watching in the protected waters of the Laguna de Términos sanctuary.",
         "es": "De refugio pirata a paraíso costero. Ubicada en una isla del Golfo de México, Isla Aguada en Campeche es un hermoso pueblo pesquero que en el siglo XVIII fue base de piratas. Hoy es un escape tranquilo con playas serenas y manglares exuberantes, ideal para recorridos en lancha. Los amantes de la naturaleza llegan para observar aves exóticas y disfrutar del avistamiento de delfines en las aguas protegidas de la Laguna de Términos."
@@ -157,9 +157,9 @@
       "stateKey": "campeche",
       "lat": 18.2528,
       "lng": -92.0836,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 10,
+      "population": 12000,
+      "image": "palizada-campeche.jpeg",
       "description": {
         "en": "A Colorful River Retreat. Located in Campeche, Palizada features colorful houses and lush natural surroundings.",
         "es": "Un refugio colorido junto al río. En Campeche, Palizada destaca por sus casas coloridas y su entorno natural."
@@ -172,8 +172,8 @@
       "stateKey": "chiapas",
       "lat": 16.7078,
       "lng": -93.0128,
-      "elevation": null,
-      "population": null,
+      "elevation": 450,
+      "population": 50000,
       "image": "chiapa-de-corzo-chiapas.jpeg",
       "description": {
         "en": "Tradition by the River. Located in Chiapas, this town is known for its Moorish-style fountain, vibrant festivals, and as the gateway to Sumidero Canyon.",
@@ -187,9 +187,9 @@
       "stateKey": "chiapas",
       "lat": 16.2525,
       "lng": -92.1339,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1670,
+      "population": 142000,
+      "image": "comitan-de-dominguez-chiapas.jpeg",
       "description": {
         "en": "A Historic Gem in the Maya Highlands. Located in Chiapas, Comitán is known for its colonial architecture, flower-filled patios, and proximity to natural wonders like Montebello Lakes and El Chiflón waterfalls.",
         "es": "Una joya histórica en los Altos de Chiapas. Comitán es famoso por su arquitectura colonial, patios llenos de flores y su cercanía a maravillas naturales como los Lagos de Montebello y El Chiflón."
@@ -202,9 +202,9 @@
       "stateKey": "chiapas",
       "lat": 17.0997,
       "lng": -93.1997,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 650,
+      "population": 20000,
+      "image": "copainala-chiapas.jpeg",
       "description": {
         "en": "A Quiet Zoque Retreat. Located in Chiapas, Copainalá preserves indigenous Zoque traditions and offers peaceful surroundings with natural springs and waterfalls.",
         "es": "Un refugio tranquilo zoque. En Chiapas, Copainalá conserva tradiciones indígenas y ofrece un entorno natural con manantiales y cascadas."
@@ -217,9 +217,9 @@
       "stateKey": "chiapas",
       "lat": 16.7667,
       "lng": -93.3667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 780,
+      "population": 85000,
+      "image": "ocozocoautla-de-espinosa-chiapas.jpeg",
       "description": {
         "en": "The Land of the Zoque Carnival. Located in Chiapas, this town is known for its vibrant indigenous festivals and traditions.",
         "es": "La tierra del carnaval zoque. En Chiapas, este pueblo es famoso por sus festividades tradicionales y su cultura indígena."
@@ -232,9 +232,9 @@
       "stateKey": "chiapas",
       "lat": 17.5136,
       "lng": -91.9822,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 75,
+      "population": 100000,
+      "image": "palenque-chiapas.jpeg",
       "description": {
         "en": "The Heart of the Maya Jungle. Known for its famous archaeological site and lush jungle surroundings.",
         "es": "El corazón de la selva maya. Palenque es famoso por su zona arqueológica y su entorno selvático."
@@ -247,9 +247,9 @@
       "stateKey": "chiapas",
       "lat": 16.737,
       "lng": -92.6376,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2100,
+      "population": 215874,
+      "image": "san-cristobal-de-las-casas-chiapas.jpeg",
       "description": {
         "en": "The Bohemian Heart of Chiapas. Known for its vibrant culture, markets, and colonial beauty.",
         "es": "El corazón bohemio de Chiapas. San Cristóbal es famoso por su cultura, mercados y belleza colonial."
@@ -262,8 +262,8 @@
       "stateKey": "chihuahua",
       "lat": 27.0167,
       "lng": -107.7333,
-      "elevation": null,
-      "population": null,
+      "elevation": 578,
+      "population": 1220,
       "image": "batopilas-chihuahua.jpeg",
       "description": {
         "en": "A Silver Treasure Deep in the Canyons. Hidden at the bottom of a canyon in Chihuahua, Batopilas is a historic former silver mining town. Once one of the richest mining areas in the world, today it offers remote beauty, rugged landscapes, and a fascinating glimpse into Mexico’s mining past.",
@@ -277,8 +277,8 @@
       "stateKey": "chihuahua",
       "lat": 30.3667,
       "lng": -107.9333,
-      "elevation": null,
-      "population": null,
+      "elevation": 1415,
+      "population": 15000,
       "image": "casas-grandes-chihuahua.jpeg",
       "description": {
         "en": "Echoes of Ancient Civilizations. Located in Chihuahua, this town is home to the Paquimé archaeological site, a UNESCO World Heritage site with unique adobe structures and ancient engineering.",
@@ -292,9 +292,9 @@
       "stateKey": "chihuahua",
       "lat": 27.75,
       "lng": -107.6333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2350,
+      "population": 4642,
+      "image": "creel-chihuahua.jpeg",
       "description": {
         "en": "Gateway to the Copper Canyon. Creel in Chihuahua is a mountain town surrounded by forests and rock formations, serving as the entry point to Copper Canyon and Tarahumara culture.",
         "es": "Puerta de entrada a las Barrancas del Cobre. Creel, en Chihuahua, es un pueblo rodeado de bosques y formaciones rocosas, ideal para explorar la cultura rarámuri y el impresionante sistema de cañones."
@@ -307,9 +307,9 @@
       "stateKey": "chihuahua",
       "lat": 26.8167,
       "lng": -107.0667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2050,
+      "population": 50000,
+      "image": "guachochi-chihuahua.jpeg",
       "description": {
         "en": "The Land of Herons. Located in Chihuahua, Guachochi sits among breathtaking canyons and waterfalls. It is deeply connected to the Tarahumara culture and is a paradise for outdoor adventurers.",
         "es": "La tierra de las garzas. En Chihuahua, Guachochi se encuentra entre impresionantes cañones y cascadas. Está profundamente ligado a la cultura rarámuri y es un paraíso para los amantes de la aventura."
@@ -322,9 +322,9 @@
       "stateKey": "chihuahua",
       "lat": 26.9333,
       "lng": -105.6667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1700,
+      "population": 110000,
+      "image": "hidalgo-del-parral-chihuahua.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -337,8 +337,8 @@
       "stateKey": "coahuila",
       "lat": 25.4667,
       "lng": -100.8167,
-      "elevation": null,
-      "population": null,
+      "elevation": 1500,
+      "population": 25000,
       "image": "arteaga-coahuila.jpeg",
       "description": {
         "en": "The Switzerland of Mexico...",
@@ -352,8 +352,8 @@
       "stateKey": "coahuila",
       "lat": 26.8333,
       "lng": -100.6667,
-      "elevation": null,
-      "population": null,
+      "elevation": 500,
+      "population": 5000,
       "image": "candela-coahuila.jpeg",
       "description": {
         "en": "A Sleepy Town with Revolutionary History. Candela in Coahuila offers a peaceful escape with a touch of Mexican Revolution history, plus nearby natural attractions for eco-tourism.",
@@ -367,9 +367,9 @@
       "stateKey": "coahuila",
       "lat": 26.9883,
       "lng": -102.0694,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 740,
+      "population": 10395,
+      "image": "cuatro-cienegas-coahuila.jpeg",
       "description": {
         "en": "An Evolutionary Desert Oasis. Located in Coahuila, this unique ecosystem features turquoise pools, white dunes, and ancient life forms known as stromatolites.",
         "es": "Un oasis evolutivo en el desierto. En Coahuila, Cuatro Ciénegas destaca por sus pozas turquesa, dunas blancas y formaciones de vida milenarias llamadas estromatolitos."
@@ -382,9 +382,9 @@
       "stateKey": "coahuila",
       "lat": 25.3833,
       "lng": -101.4833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1620,
+      "population": 12000,
+      "image": "general-cepeda-coahuila.jpeg",
       "description": {
         "en": "A Prehistoric Desert Journey. Located in Coahuila, this town is known for its rich fossil discoveries and desert landscapes filled with dinosaur remains.",
         "es": "Un viaje prehistórico en el desierto. En Coahuila, General Cepeda es conocido por sus fósiles y hallazgos de dinosaurios en paisajes desérticos."
@@ -397,9 +397,9 @@
       "stateKey": "coahuila",
       "lat": 28.3167,
       "lng": -100.4,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 350,
+      "population": 4000,
+      "image": "guerrero-coahuila.jpeg",
       "description": {
         "en": "A Border Town of Missions. Located near the Texas border, Guerrero is known for its historic missions and early colonial history.",
         "es": "Un pueblo fronterizo de misiones. Cerca de Texas, Guerrero es conocido por sus misiones históricas y su legado colonial."
@@ -412,9 +412,9 @@
       "stateKey": "coahuila",
       "lat": 27.8833,
       "lng": -101.5167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 330,
+      "population": 68000,
+      "image": "melchor-muzquiz-coahuila.jpeg",
       "description": {
         "en": "A Cross-Cultural Desert Oasis. Located in Coahuila, this town blends indigenous heritage with desert landscapes.",
         "es": "Un oasis cultural en el desierto. En Coahuila, este pueblo mezcla herencia indígena con paisajes desérticos."
@@ -427,9 +427,9 @@
       "stateKey": "coahuila",
       "lat": 25.4394,
       "lng": -102.1775,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1522,
+      "population": 47000,
+      "image": "parras-coahuila.jpeg",
       "description": {
         "en": "The Cradle of American Viticulture Parras (also known as Parras de la Fuente) is a literal desert oasis in Coahuila and an absolute paradise for wine lovers. Established in 1597, it is home to Casa Madero, the oldest winery in the Americas. Beyond the sprawling vineyards and walnut groves, visitors can explore relaxing natural pools or hike up to the striking Santo Madero church, which sits dramatically atop a volcanic plug.",
         "es": "La cuna de la viticultura en América. Parras, también conocido como Parras de la Fuente, es un auténtico oasis en el desierto de Coahuila y un verdadero paraíso para los amantes del vino. Fundado en 1597, alberga Casa Madero, la bodega más antigua del continente. Además de sus extensos viñedos y nogaleras, los visitantes pueden disfrutar de albercas naturales o subir al impresionante templo de Santo Madero, situado sobre un prominente peñasco volcánico."
@@ -442,9 +442,9 @@
       "stateKey": "coahuila",
       "lat": 25.35,
       "lng": -102.7833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1130,
+      "population": 22000,
+      "image": "viesca-coahuila.jpeg",
       "description": {
         "en": "Shifting Sands in the Desert Tucked away in Coahuila, Viesca is a remote, quiet desert town that offers a truly unique landscape. It is most famous for the Dunas de Bilbao, a spectacular natural playground of shifting sand dunes that attracts travelers looking for striking photography and outdoor fun.",
         "es": "Dunas cambiantes en el desierto. Escondido en Coahuila, Viesca es un tranquilo pueblo desértico que ofrece un paisaje verdaderamente único. Es especialmente famoso por las Dunas de Bilbao, un impresionante entorno natural de arena en constante movimiento que atrae a viajeros en busca de paisajes espectaculares y experiencias al aire libre."
@@ -457,9 +457,9 @@
       "stateKey": "colima",
       "lat": 19.3253,
       "lng": -103.7628,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 690,
+      "population": 9650,
+      "image": "comala-colima.jpeg",
       "description": {
         "en": "The White Village of America. Located in Colima, Comala is famous for its whitewashed buildings and red-tiled roofs. It inspired Juan Rulfo’s novel Pedro Páramo and offers peaceful streets with views of the Colima volcano.",
         "es": "El pueblo blanco de América. En Colima, Comala destaca por sus casas blancas y techos rojos. Inspiró la obra Pedro Páramo y ofrece calles tranquilas con vistas al volcán de Colima."
@@ -472,9 +472,9 @@
       "stateKey": "durango",
       "lat": 25.8333,
       "lng": -103.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1150,
+      "population": 5623,
+      "image": "mapimi-durango.jpeg",
       "description": {
         "en": "Mining History and Mystery. Located in Durango, Mapimí is known for its mining past and proximity to the mysterious Zone of Silence.",
         "es": "Historia minera y misterio. En Durango, Mapimí es famoso por su pasado minero y su cercanía a la enigmática Zona del Silencio."
@@ -487,9 +487,9 @@
       "stateKey": "durango",
       "lat": 23.85,
       "lng": -104.2167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1900,
+      "population": 12000,
+      "image": "nombre-de-dios-durango.jpeg",
       "description": {
         "en": "Missions, Mezcal, and Waterfalls. Located in Durango, this historic town features colonial missions, scenic waterfalls, and traditional mezcal production.",
         "es": "Misiones, mezcal y cascadas. En Durango, este pueblo histórico ofrece misiones coloniales, hermosas cascadas y producción tradicional de mezcal."
@@ -502,9 +502,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 20.1,
       "lng": -99.85,
-      "elevation": null,
-      "population": null,
-      "image": "aculco-estado-de-mexico.jpg",
+      "elevation": 2440,
+      "population": 40000,
+      "image": "aculco-estado-de-mexico.jpeg",
       "description": {
         "en": "Discovering Aculco: A Magical Escape in the State of Mexico\nIf you are looking for a unique getaway, the charming town of Aculco in the State of Mexico is a fantastic destination. Officially designated as a Pueblo Mágico in 2015, this picturesque town offers a delightful mix of natural wonders and local flavor.\n\nAculco is particularly famous for its striking geology, boasting spectacular basaltic cliffs and beautiful waterfalls that make it a perfect spot for nature lovers and outdoor adventurers. After working up an appetite exploring the dramatic landscapes, you can indulge in the town's rich culinary traditions—Aculco is highly noted for its delicious traditional cheese production.\n\nWhether you are chasing scenic views or authentic Mexican flavors, Aculco is a wonderful, off-the-beaten-path addition to your travel bucket list!",
         "es": "Descubriendo Aculco: una escapada mágica en el Estado de México\nSi estás buscando una escapada única, el encantador pueblo de Aculco, en el Estado de México, es un destino fantástico. Designado oficialmente como Pueblo Mágico en 2015, este pintoresco lugar ofrece una mezcla encantadora de maravillas naturales y tradición local.\n\nAculco es especialmente famoso por su impresionante geología, con espectaculares formaciones de basalto y hermosas cascadas que lo convierten en un sitio ideal para amantes de la naturaleza y la aventura. Después de explorar sus paisajes, puedes disfrutar de su rica gastronomía, destacando su tradicional producción de quesos artesanales.\n\nYa sea por sus vistas o su autenticidad, Aculco es una joya poco conocida que merece un lugar en tu lista de viajes."
@@ -517,9 +517,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.8,
       "lng": -100.1333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2700,
+      "population": 35000,
+      "image": "el-oro-estado-de-mexico.jpeg",
       "description": {
         "en": "A European-Style Mining Town. Located in the State of Mexico, El Oro was once a prosperous mining center. Its European-style architecture, theaters, and nearby dams create a unique blend of history and nature.",
         "es": "Un pueblo minero con estilo europeo. En el Estado de México, El Oro fue un importante centro minero. Su arquitectura europea, teatros y presas cercanas ofrecen una mezcla única de historia y naturaleza."
@@ -532,9 +532,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 18.85,
       "lng": -99.6833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1888,
+      "population": 33000,
+      "image": "ixtapan-de-la-sal-estado-de-mexico.jpeg",
       "description": {
         "en": "A Relaxing Thermal Retreat. Famous for its hot springs and spa culture.",
         "es": "Un refugio termal relajante. Famoso por sus aguas termales y su cultura de spa."
@@ -547,9 +547,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.9667,
       "lng": -99.5333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2620,
+      "population": 90000,
+      "image": "jilotepec-estado-de-mexico.jpeg",
       "description": {
         "en": "Nature and Colonial Charm. Surrounded by mountains and forests.",
         "es": "Naturaleza y encanto colonial. Rodeado de montañas y bosques."
@@ -562,9 +562,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 18.9333,
       "lng": -99.4833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1760,
+      "population": 43000,
+      "image": "malinalco-estado-de-mexico.jpeg",
       "description": {
         "en": "Ancient Mysteries Carved in Stone. Located in the State of Mexico, Malinalco is famous for its unique temple carved into a mountain and its spiritual atmosphere.",
         "es": "Misterios antiguos tallados en piedra. En el Estado de México, Malinalco es famoso por su templo esculpido en la montaña y su ambiente espiritual."
@@ -577,9 +577,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.2583,
       "lng": -99.6,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2600,
+      "population": 215000,
+      "image": "metepec-estado-de-mexico.jpeg",
       "description": {
         "en": "The Village of Clay and Color. Known for its pottery, especially the Tree of Life sculptures.",
         "es": "El pueblo del barro y color. Destaca por su alfarería, especialmente el Árbol de la Vida."
@@ -592,9 +592,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.6997,
       "lng": -98.7578,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2347,
+      "population": 35000,
+      "image": "otumba-estado-de-mexico.jpeg",
       "description": {
         "en": "History and Donkey Festival. Known for its historical significance and unique Donkey Fair.",
         "es": "Historia y feria del burro. Otumba es famoso por su historia y su peculiar Feria del Burro."
@@ -607,9 +607,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.6833,
       "lng": -98.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2290,
+      "population": 65000,
+      "image": "san-juan-teotihuacan-estado-de-mexico.jpeg",
       "description": {
         "en": "In the Shadow of the Pyramids. Located next to Teotihuacán’s famous ruins.",
         "es": "A la sombra de las pirámides. Este pueblo se encuentra junto a la zona arqueológica de Teotihuacán."
@@ -622,9 +622,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.7,
       "lng": -98.8167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2300,
+      "population": 25000,
+      "image": "san-martin-de-las-piramides-estado-de-mexico.jpeg",
       "description": {
         "en": "In the Shadow of Ancient Marvels Located in the State of Mexico, San Martín de las Pirámides is inextricably linked to the massive Teotihuacán archaeological site. Visitors can marvel at the colossal Pyramids of the Sun and Moon, and then dive into the region's unique gastronomy, which centers heavily around agave products like traditional pulque and sour xoconostle (prickly pear).",
         "es": "A la sombra de maravillas ancestrales. Ubicado en el Estado de México, San Martín de las Pirámides está íntimamente ligado a la majestuosa zona arqueológica de Teotihuacán. Los visitantes pueden admirar las imponentes pirámides del Sol y la Luna y después disfrutar de la gastronomía local, basada en productos del agave como el pulque tradicional y el xoconostle."
@@ -637,9 +637,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.7167,
       "lng": -99.2333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2300,
+      "population": 90000,
+      "image": "tepotzotlan-estado-de-mexico.jpeg",
       "description": {
         "en": "A Colonial Masterpiece. Known for its baroque museum and aqueduct.",
         "es": "Una joya colonial. Tepotzotlán destaca por su museo barroco y acueducto."
@@ -652,9 +652,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 18.7833,
       "lng": -99.7,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1800,
+      "population": 15000,
+      "image": "tonatico-estado-de-mexico.jpeg",
       "description": {
         "en": "Subterranean Wonders. Known for caves and hot springs.",
         "es": "Maravillas subterráneas. Tonatico destaca por sus grutas y aguas termales."
@@ -667,9 +667,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.193,
       "lng": -100.1292,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1826,
+      "population": 61590,
+      "image": "valle-de-bravo-estado-de-mexico.jpeg",
       "description": {
         "en": "A Lakefront Adventure Hub. Known for paragliding and lake views.",
         "es": "Un destino de aventura junto al lago. Valle de Bravo destaca por el parapente y su lago."
@@ -682,9 +682,9 @@
       "stateKey": "estado-de-mexico",
       "lat": 19.7167,
       "lng": -99.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2700,
+      "population": 45000,
+      "image": "villa-del-carbon-estado-de-mexico.jpeg",
       "description": {
         "en": "The Leather Capital. Known for forests and leather craftsmanship.",
         "es": "La capital del cuero. Villa del Carbón destaca por sus bosques y artesanía en cuero."
@@ -693,13 +693,13 @@
     {
       "id": "xochitepec",
       "name": "Xochitepec",
-      "state": "Estado de México",
-      "stateKey": "estado-de-mexico",
+      "state": "Morelos",
+      "stateKey": "morelos",
       "lat": 18.7903,
       "lng": -99.2297,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2350,
+      "population": 35000,
+      "image": "xochitepec-morelos.jpeg",
       "description": {
         "en": "Gardens and Archaeology. Known for balnearios and nearby ruins.",
         "es": "Jardines y arqueología. Xochitepec destaca por sus balnearios y zonas arqueológicas."
@@ -712,9 +712,9 @@
       "stateKey": "guanajuato",
       "lat": 20.7167,
       "lng": -100.7667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1780,
+      "population": 75000,
+      "image": "comonfort-guanajuato.jpeg",
       "description": {
         "en": "The Masters of Volcanic Stone. Located in Guanajuato, Comonfort is known for its traditional molcajetes carved from volcanic rock using ancient techniques.",
         "es": "Los maestros de la piedra volcánica. En Guanajuato, Comonfort es famoso por sus molcajetes elaborados artesanalmente con técnicas ancestrales."
@@ -727,9 +727,9 @@
       "stateKey": "guanajuato",
       "lat": 21.1533,
       "lng": -100.9319,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1980,
+      "population": 134642,
+      "image": "dolores-hidalgo-guanajuato.jpeg",
       "description": {
         "en": "The Cradle of Independence. Located in Guanajuato, Dolores Hidalgo is where Mexico’s independence movement began. Today it is known for its vibrant plaza, historic significance, and unique ice cream flavors like tequila, mole, and shrimp.",
         "es": "La cuna de la Independencia. En Guanajuato, Dolores Hidalgo es el lugar donde inició la independencia de México. Hoy es conocido por su plaza vibrante, su importancia histórica y sus curiosos sabores de nieve como tequila, mole y camarón."
@@ -742,9 +742,9 @@
       "stateKey": "guanajuato",
       "lat": 20.9167,
       "lng": -101.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1735,
+      "population": 25000,
+      "image": "jalpa-de-canovas-guanajuato.jpeg",
       "description": {
         "en": "A Peaceful Hacienda Hamlet. Known for its historic hacienda roots and serene environment.",
         "es": "Un tranquilo pueblo de hacienda. Destaca por su historia y su entorno relajado."
@@ -757,9 +757,9 @@
       "stateKey": "guanajuato",
       "lat": 21.2333,
       "lng": -100.5167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2209,
+      "population": 2630,
+      "image": "mineral-de-pozos-guanajuato.jpeg",
       "description": {
         "en": "A Ghost Town Reborn. Once abandoned, now a hub for art and culture.",
         "es": "Un pueblo fantasma renacido. De pueblo abandonado a centro artístico y cultural."
@@ -772,9 +772,9 @@
       "stateKey": "guanajuato",
       "lat": 20.2167,
       "lng": -100.8833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1730,
+      "population": 95000,
+      "image": "salvatierra-guanajuato.jpeg",
       "description": {
         "en": "Bridges and Monasteries. A colonial city known for its architecture and scenic bridges.",
         "es": "Puentes y monasterios. Salvatierra es una ciudad colonial conocida por su arquitectura y puentes."
@@ -787,9 +787,9 @@
       "stateKey": "guanajuato",
       "lat": 20.1939,
       "lng": -101.145,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1738,
+      "population": 75000,
+      "image": "yuriria-guanajuato.jpeg",
       "description": {
         "en": "A Fortress on the Lagoon. Known for its massive convent and lake views.",
         "es": "Una fortaleza junto a la laguna. Yuriria destaca por su convento y paisaje lacustre."
@@ -802,9 +802,9 @@
       "stateKey": "guerrero",
       "lat": 18.5,
       "lng": -99.7833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1740,
+      "population": 5000,
+      "image": "ixcateopan-de-cuauhtemoc-guerrero.jpeg",
       "description": {
         "en": "The Final Resting Place of an Emperor. Known for its deep historical roots and connection to Aztec emperor Cuauhtémoc.",
         "es": "El descanso final de un emperador. Este pueblo tiene gran valor histórico y está ligado a Cuauhtémoc."
@@ -817,9 +817,9 @@
       "stateKey": "guerrero",
       "lat": 18.5583,
       "lng": -99.6039,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1752,
+      "population": 105586,
+      "image": "taxco-de-alarcon-guerrero.jpeg",
       "description": {
         "en": "The Silver Capital. Famous for its mining history and stunning baroque architecture.",
         "es": "La capital de la plata. Taxco es famoso por su historia minera y arquitectura barroca."
@@ -832,9 +832,9 @@
       "stateKey": "guerrero",
       "lat": 17.6353,
       "lng": -101.5514,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 10,
+      "population": 115000,
+      "image": "zihuatanejo-guerrero.jpeg",
       "description": {
         "en": "A Tranquil Pacific Escape. Known for beaches and relaxed atmosphere.",
         "es": "Un escape pacífico. Zihuatanejo destaca por sus playas y ambiente relajado."
@@ -847,8 +847,8 @@
       "stateKey": "hidalgo",
       "lat": 20.1667,
       "lng": -98.2,
-      "elevation": null,
-      "population": null,
+      "elevation": 2100,
+      "population": 55000,
       "image": "acaxochitlan-hidalgo.jpeg",
       "description": {
         "en": "A Blend of Colonial Romance and Indigenous Traditions...",
@@ -862,9 +862,9 @@
       "stateKey": "hidalgo",
       "lat": 20.2,
       "lng": -98.5667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2106,
+      "population": 17000,
+      "image": "huasca-de-ocampo-hidalgo.jpeg",
       "description": {
         "en": "Basalt Columns and Mystical Legends. The first Pueblo Mágico in Mexico, Huasca is famous for its basaltic prisms and legends of elves.",
         "es": "Prismas basálticos y leyendas místicas. El primer Pueblo Mágico de México, Huasca es famoso por sus prismas y sus historias de duendes."
@@ -877,9 +877,9 @@
       "stateKey": "hidalgo",
       "lat": 20.3793,
       "lng": -99.6544,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2040,
+      "population": 55000,
+      "image": "huichapan-hidalgo.jpeg",
       "description": {
         "en": "Revolutionary Roots and Thermal Waters Huichapan is an elegant viceregal town in Hidalgo that holds a very special place in Mexican history. It was here in 1812 that the very first celebration of Independence Day took place, a tradition later carried on by Mexican presidents. Aside from its charming architecture, visitors can also relax in the region's soothing thermal waters.",
         "es": "Raíces revolucionarias y aguas termales. Huichapan es un elegante pueblo virreinal en Hidalgo con un lugar muy especial en la historia de México. Aquí se celebró por primera vez el Día de la Independencia en 1812, tradición que después adoptaron los presidentes del país. Además de su encantadora arquitectura, los visitantes pueden relajarse en sus aguas termales."
@@ -892,9 +892,9 @@
       "stateKey": "hidalgo",
       "lat": 20.5833,
       "lng": -98.7667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1180,
+      "population": 30000,
+      "image": "metztitlan-hidalgo.jpeg",
       "description": {
         "en": "A Biodiverse Biosphere Retreat Added to the Pueblo Mágico list in 2023, Metztitlán is a quaint town in Hidalgo nestled within a protected biosphere reserve. Surrounded by cactus-covered hills, bat caves, and a nearby lake, it is a haven for environmental conservation. The town also proudly preserves its ancient indigenous traditions, making it a culturally and ecologically rich destination.",
         "es": "Un refugio de biodiversidad. Incorporado al programa en 2023, Metztitlán es un encantador pueblo de Hidalgo ubicado dentro de una reserva de la biosfera. Rodeado de cerros cubiertos de cactus, cuevas de murciélagos y un lago cercano, es un santuario de conservación ambiental. Además, conserva con orgullo sus tradiciones indígenas, lo que lo convierte en un destino rico en cultura y naturaleza."
@@ -907,9 +907,9 @@
       "stateKey": "hidalgo",
       "lat": 20.2,
       "lng": -98.7333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2700,
+      "population": 5000,
+      "image": "mineral-del-chico-hidalgo.jpeg",
       "description": {
         "en": "An Adrenaline Rush in the Forest Mineral del Chico is a classy former mining town in Hidalgo that sits right on the edge of El Chico National Park. It has become a premier destination for outdoor adventurers looking to escape into nature. From thrilling mountain biking trails to sheer rock climbing routes, it offers the perfect mix of extreme sports and cozy, small-town charm.",
         "es": "Adrenalina en el bosque. Mineral del Chico es un elegante antiguo pueblo minero en Hidalgo, ubicado a las puertas del Parque Nacional El Chico. Hoy es un destino ideal para aventureros que buscan escapar a la naturaleza. Desde ciclismo de montaña hasta rutas de escalada en roca, ofrece la combinación perfecta entre deportes extremos y el encanto de un pueblo acogedor."
@@ -922,9 +922,9 @@
       "stateKey": "hidalgo",
       "lat": 20.1231,
       "lng": -98.6658,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2700,
+      "population": 14324,
+      "image": "real-del-monte-hidalgo.jpeg",
       "description": {
         "en": "A Slice of England in Mexico. Known for its mining heritage and Cornish influence.",
         "es": "Un rincón inglés en México. Real del Monte es famoso por su herencia minera y su influencia británica."
@@ -937,9 +937,9 @@
       "stateKey": "hidalgo",
       "lat": 20.5197,
       "lng": -99.6347,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1780,
+      "population": 35000,
+      "image": "tecozautla-hidalgo.jpeg",
       "description": {
         "en": "A Geothermal Oasis. Known for hot springs and geysers.",
         "es": "Un oasis geotérmico. Tecozautla es famoso por sus aguas termales y géiser."
@@ -952,9 +952,9 @@
       "stateKey": "hidalgo",
       "lat": 19.9167,
       "lng": -98.6667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2240,
+      "population": 25000,
+      "image": "zempoala-hidalgo.jpeg",
       "description": {
         "en": "An Engineering Marvel of the Colonial Era With a history that dates back to the Toltecs, Zempoala is a fascinating town in Hidalgo steeped in colonial heritage. Visitors can explore historic haciendas and marvel at the town's crowning glory: the Aqueduct of Padre Tembleque. This 16th-century engineering marvel is so impressive that it has been designated a UNESCO World Heritage site.",
         "es": "Una maravilla de ingeniería colonial. Con una historia que se remonta a los toltecas, Zempoala es un fascinante pueblo de Hidalgo lleno de herencia colonial. Los visitantes pueden recorrer antiguas haciendas y admirar su mayor joya: el Acueducto del Padre Tembleque, una obra maestra del siglo XVI reconocida como Patrimonio de la Humanidad por la UNESCO."
@@ -967,9 +967,9 @@
       "stateKey": "hidalgo",
       "lat": 20.7333,
       "lng": -99.3667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1780,
+      "population": 40000,
+      "image": "zimapan-hidalgo.jpeg",
       "description": {
         "en": "Canyons, Dams, and Luxury Spas Zimapán in Hidalgo is the ultimate destination for travelers seeking both relaxation and extreme adventure. By day, you can explore the rugged peaks and deep canyons of Los Mármoles National Park, enjoying activities like sport fishing at the massive dam, paragliding, and rock climbing along via ferrata routes. By night, the town offers luxurious 5-star spa hotels where you can unwind in style.",
         "es": "Cañones, presas y spas de lujo. Zimapán, en Hidalgo, es el destino perfecto para quienes buscan relajación y aventura extrema. Durante el día puedes explorar los cañones y montañas del Parque Nacional Los Mármoles, practicar pesca, parapente o escalada. Por la noche, puedes descansar en hoteles spa de lujo con todas las comodidades."
@@ -982,8 +982,8 @@
       "stateKey": "jalisco",
       "lat": 20.2967,
       "lng": -103.2858,
-      "elevation": null,
-      "population": null,
+      "elevation": 1530,
+      "population": 15000,
       "image": "ajijic-jalisco.jpeg",
       "description": {
         "en": "A Colorful Haven on Lake Chapala...",
@@ -997,9 +997,9 @@
       "stateKey": "jalisco",
       "lat": 20.3667,
       "lng": -103.8167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1445,
+      "population": 35000,
+      "image": "cocula-jalisco.jpeg",
       "description": {
         "en": "The Musical Soul of Mexico Located in Jalisco, Cocula is a colorful, cobblestone town widely celebrated as the \"cradle of mariachi\". The town is deeply connected to this iconic music, and visitors can enjoy live bands in the colonial-era central plaza. You can also visit workshops to see how traditional string instruments are crafted or explore the dedicated Mariachi Museum to learn about the genre's history.",
         "es": "El alma musical de México. Ubicado en Jalisco, Cocula es un pintoresco pueblo de calles empedradas reconocido como la cuna del mariachi. Este género icónico forma parte esencial de su identidad, y los visitantes pueden disfrutar de música en vivo en la plaza principal de estilo colonial. También es posible visitar talleres donde se elaboran instrumentos tradicionales o recorrer el Museo del Mariachi para conocer más sobre su historia."
@@ -1012,9 +1012,9 @@
       "stateKey": "jalisco",
       "lat": 21.3567,
       "lng": -101.9283,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1942,
+      "population": 111569,
+      "image": "lagos-de-moreno-jalisco.jpeg",
       "description": {
         "en": "A Preserved Gem of the Bajío. Known for its UNESCO-listed historic center.",
         "es": "Una joya del Bajío. Destaca por su centro histórico Patrimonio de la Humanidad."
@@ -1027,9 +1027,9 @@
       "stateKey": "jalisco",
       "lat": 20.5167,
       "lng": -104.7833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1165,
+      "population": 15000,
+      "image": "mascota-jalisco.jpeg",
       "description": {
         "en": "The Emerald of the Sierra. Located in Jalisco, Mascota is a lush mountain town known for its nature and peaceful environment.",
         "es": "La esmeralda de la sierra. En Jalisco, Mascota es un pueblo rodeado de naturaleza con un ambiente tranquilo y fresco."
@@ -1042,9 +1042,9 @@
       "stateKey": "jalisco",
       "lat": 19.9167,
       "lng": -103.0167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2100,
+      "population": 15000,
+      "image": "mazamitla-jalisco.jpeg",
       "description": {
         "en": "The Mexican Alps. Known for its alpine scenery, cabins, and pine forests.",
         "es": "Los Alpes mexicanos. Famoso por sus paisajes alpinos, cabañas y bosques de pino."
@@ -1057,9 +1057,9 @@
       "stateKey": "jalisco",
       "lat": 20.7833,
       "lng": -104.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1400,
+      "population": 1000,
+      "image": "san-sebastian-del-oeste-jalisco.jpeg",
       "description": {
         "en": "A Mountain Refuge in the Clouds. Known for its preserved colonial charm and mountain views.",
         "es": "Un refugio en las montañas. San Sebastián del Oeste conserva su encanto colonial entre paisajes montañosos."
@@ -1072,9 +1072,9 @@
       "stateKey": "jalisco",
       "lat": 19.95,
       "lng": -103.75,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2000,
+      "population": 17000,
+      "image": "tapalpa-jalisco.jpeg",
       "description": {
         "en": "The Land of Colors. Known for its alpine feel, forests, and outdoor activities.",
         "es": "La tierra de colores. Tapalpa destaca por su ambiente alpino y actividades al aire libre."
@@ -1087,9 +1087,9 @@
       "stateKey": "jalisco",
       "lat": 20.8833,
       "lng": -103.8333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1500,
+      "population": 43000,
+      "image": "tequila-jalisco.jpeg",
       "description": {
         "en": "The Spirit of Mexico. Known worldwide for tequila production and agave landscapes.",
         "es": "El espíritu de México. Tequila es famoso mundialmente por su producción de tequila y paisajes de agave."
@@ -1102,9 +1102,9 @@
       "stateKey": "jalisco",
       "lat": 19.8833,
       "lng": -103.6167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1348,
+      "population": 38000,
+      "image": "sayula-jalisco.jpeg",
       "description": {
         "en": "Cajeta and Culture. Known for its sweets, crafts, and literary heritage.",
         "es": "Cajeta y cultura. Sayula es famoso por sus dulces tradicionales, artesanías y legado cultural."
@@ -1117,9 +1117,9 @@
       "stateKey": "jalisco",
       "lat": 20.3833,
       "lng": -104.8167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1260,
+      "population": 12000,
+      "image": "talpa-de-allende-jalisco.jpeg",
       "description": {
         "en": "A Pilgrimage Destination. Known for its religious importance and natural surroundings.",
         "es": "Destino de peregrinación. Talpa es famoso por su importancia religiosa y su entorno natural."
@@ -1132,9 +1132,9 @@
       "stateKey": "jalisco",
       "lat": 21.1714,
       "lng": -102.7261,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1670,
+      "population": 1500,
+      "image": "temacapulin-jalisco.jpeg",
       "description": {
         "en": "The Triumphant Cradle of Thermal Waters A recent addition to the program, Temacapulín in Jalisco is famous for its soothing thermal hot springs and balnearios. The town features charming adobe homes and cobblestone streets, but its most inspiring story is one of civic resistance, as locals successfully fought to save their beloved town from being flooded by a major hydroelectric dam project.",
         "es": "La cuna triunfante de aguas termales. Recientemente incorporado al programa de Pueblos Mágicos, Temacapulín en Jalisco es famoso por sus relajantes aguas termales y balnearios. El pueblo conserva casas de adobe y calles empedradas llenas de encanto, pero su historia más inspiradora es la resistencia de sus habitantes, quienes lograron salvar su comunidad de ser inundada por un proyecto hidroeléctrico."
@@ -1147,9 +1147,9 @@
       "stateKey": "jalisco",
       "lat": 20.65,
       "lng": -103.3167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1569,
+      "population": 650123,
+      "image": "Tlaquepaque Jalisco.jpeg",
       "description": {
         "en": "A Colorful Hub of Artisanal Mastery San Pedro Tlaquepaque, located on the outskirts of Guadalajara in Jalisco, is a delightful enclave bursting with art and tradition. Its vibrant, cobblestone streets are lined with boutiques selling incredible ceramics, blown glass, and handmade furniture. For a true taste of local culture, head to the famous \"El Parián\" plaza, where wandering mariachi trios provide the perfect soundtrack to your visit.",
         "es": "Un vibrante centro de arte y tradición. San Pedro Tlaquepaque, ubicado a las afueras de Guadalajara, es un encantador destino lleno de creatividad. Sus calles empedradas están repletas de tiendas que ofrecen cerámica, vidrio soplado y muebles artesanales. Para vivir la cultura local al máximo, visita la plaza El Parián, donde los mariachis ambientan el lugar con música en vivo."
@@ -1162,9 +1162,9 @@
       "stateKey": "michoacan",
       "lat": 19.6167,
       "lng": -100.3833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2700,
+      "population": 10000,
+      "image": "mineral-de-angangueo-michoacan.jpeg",
       "description": {
         "en": "The Monarch's Mountain Refuge. Known as a gateway to the Monarch Butterfly reserves.",
         "es": "Refugio de la mariposa monarca. Es la puerta de entrada a los santuarios de mariposas."
@@ -1177,9 +1177,9 @@
       "stateKey": "michoacan",
       "lat": 19.8,
       "lng": -102.7,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1600,
+      "population": 22000,
+      "image": "cotija-michoacan.jpeg",
       "description": {
         "en": "A Global Cheese Capital Situated in Michoacán, Cotija is an absolute must-visit for culinary enthusiasts. The town is world-famous for its namesake dry-aged cheese, which has even earned an international denomination of origin. Aside from tasting this iconic cheese—which resembles feta when young and parmesan when aged—visitors can explore the town's charming, historic streets.",
         "es": "Capital mundial del queso. Ubicado en Michoacán, Cotija es un destino imprescindible para los amantes de la gastronomía. Es famoso a nivel internacional por su queso Cotija, reconocido con denominación de origen. Además de degustar este producto icónico—similar al feta cuando es joven y al parmesano cuando madura—los visitantes pueden recorrer sus encantadoras calles históricas."
@@ -1192,9 +1192,9 @@
       "stateKey": "michoacan",
       "lat": 19.9667,
       "lng": -101.15,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1840,
+      "population": 25000,
+      "image": "cuitzeo-michoacan.jpeg",
       "description": {
         "en": "Lakeside Monastic Beauty. Located in Michoacán, Cuitzeo sits along a scenic lake and is dominated by a massive 16th-century Augustinian monastery. Its architecture blends Renaissance, Gothic, and Baroque styles, making it one of the most striking historical sites in the region.",
         "es": "Belleza monástica junto al lago. En Michoacán, Cuitzeo se encuentra a orillas de un lago y destaca por su imponente monasterio agustino del siglo XVI. Su arquitectura combina estilos renacentista, gótico y barroco, convirtiéndolo en uno de los sitios históricos más impresionantes de la región."
@@ -1207,9 +1207,9 @@
       "stateKey": "michoacan",
       "lat": 19.9833,
       "lng": -102.7167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1570,
+      "population": 35000,
+      "image": "jiquilpan-michoacan.jpeg",
       "description": {
         "en": "The City of Jacarandas. Known for its political history and murals.",
         "es": "La ciudad de las jacarandas. Destaca por su historia política y murales."
@@ -1222,9 +1222,9 @@
       "stateKey": "michoacan",
       "lat": 19.6333,
       "lng": -102.05,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2208,
+      "population": 32000,
+      "image": "paracho-pichoacan.jpeg",
       "description": {
         "en": "The Village of Guitars Paracho (or Paracho de Verduzco) in Michoacán is a town that resonates with music. It is globally recognized for its masterful production of high-quality guitars and string instruments, with shops lining the streets and nearly every family involved in the craft. The town also boasts a deep Purépecha heritage, home to the impressive Templo Santiago Apóstol de Nurio.",
         "es": "El pueblo de las guitarras. Paracho, en Michoacán, es un destino donde la música se vive en cada rincón. Es reconocido mundialmente por la elaboración artesanal de guitarras e instrumentos de cuerda, con talleres y tiendas a lo largo de sus calles. Además, conserva una fuerte herencia purépecha y alberga el impresionante Templo Santiago Apóstol de Nurio."
@@ -1237,9 +1237,9 @@
       "stateKey": "michoacan",
       "lat": 19.5153,
       "lng": -101.6094,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2140,
+      "population": 79868,
+      "image": "patzcuaro-michoacan.jpeg",
       "description": {
         "en": "The Soul of the Purépecha Empire. Located in Michoacán, Pátzcuaro is known for its cultural richness and Day of the Dead traditions.",
         "es": "El alma del Imperio purépecha. En Michoacán, Pátzcuaro destaca por su riqueza cultural y sus tradiciones de Día de Muertos."
@@ -1252,9 +1252,9 @@
       "stateKey": "michoacan",
       "lat": 19.4167,
       "lng": -101.6333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2040,
+      "population": 16000,
+      "image": "santa-clara-del-cobre-michoacan.jpeg",
       "description": {
         "en": "The Town of Hammered Copper. Located in Michoacán, Santa Clara is famous for its copper craftsmanship traditions dating back to pre-Hispanic times.",
         "es": "El pueblo del cobre martillado. En Michoacán, Santa Clara es famoso por su tradición artesanal del cobre desde tiempos prehispánicos."
@@ -1267,9 +1267,9 @@
       "stateKey": "michoacan",
       "lat": 19.2333,
       "lng": -101.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1460,
+      "population": 65000,
+      "image": "tacambaro-michoacan.jpeg",
       "description": {
         "en": "The Balcony of Tierra Caliente. Known for scenic views and its unique climate transition.",
         "es": "El balcón de Tierra Caliente. Tacámbaro destaca por sus vistas y su clima único."
@@ -1282,9 +1282,9 @@
       "stateKey": "michoacan",
       "lat": 19.8,
       "lng": -100.1667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2678,
+      "population": 28556,
+      "image": "tlalpujahua-michoacan.jpeg",
       "description": {
         "en": "The Christmas Ornament Capital. Known for handmade glass ornaments.",
         "es": "Capital de las esferas navideñas. Tlalpujahua es famoso por sus adornos de vidrio."
@@ -1297,9 +1297,9 @@
       "stateKey": "michoacan",
       "lat": 19.6333,
       "lng": -101.5667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2050,
+      "population": 15000,
+      "image": "tzintzuntzan-michoacan.jpeg",
       "description": {
         "en": "Ancient Pyramids on the Lake Located near Lake Pátzcuaro in Michoacán, Tzintzuntzan was once the powerful capital of the Purépecha Empire. The town is famous for its unique \"Yácatas\"—striking circular pyramids that still overlook the area. Visitors can also explore a historic former monastery complex of San Francisco and marvel at an ancient olive grove that was planted in the 16th century.",
         "es": "Pirámides ancestrales junto al lago. Ubicado cerca del Lago de Pátzcuaro en Michoacán, Tzintzuntzan fue la antigua capital del Imperio purépecha. Es famoso por sus yácatas, impresionantes pirámides circulares que dominan el paisaje. También se puede visitar el ex convento franciscano y un histórico olivar plantado en el siglo XVI."
@@ -1312,9 +1312,9 @@
       "stateKey": "morelos",
       "lat": 18.9853,
       "lng": -99.0981,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1715,
+      "population": 41629,
+      "image": "tepoztlan-morelos.jpeg",
       "description": {
         "en": "Mysticism and Energy. Known for its pyramid hike and spiritual vibe.",
         "es": "Misticismo y energía. Tepoztlán es famoso por su pirámide y ambiente espiritual."
@@ -1327,9 +1327,9 @@
       "stateKey": "morelos",
       "lat": 18.6667,
       "lng": -99.15,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 930,
+      "population": 35000,
+      "image": "tlaltizapan-de-zapata-morelos.jpeg",
       "description": {
         "en": "Revolution and Relaxation. Known for history and natural springs.",
         "es": "Historia y relajación. Tlaltizapán combina historia revolucionaria y manantiales."
@@ -1342,9 +1342,9 @@
       "stateKey": "morelos",
       "lat": 18.95,
       "lng": -98.9833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1530,
+      "population": 15000,
+      "image": "tlayacapan-morelos.jpeg",
       "description": {
         "en": "Ancient Monasteries and Pottery. Known for UNESCO monasteries.",
         "es": "Monasterios y tradición. Tlayacapan destaca por su patrimonio UNESCO."
@@ -1357,8 +1357,8 @@
       "stateKey": "nayarit",
       "lat": 20.8333,
       "lng": -104.4167,
-      "elevation": null,
-      "population": null,
+      "elevation": 980,
+      "population": 15000,
       "image": "amatlan-de-canas-nayarit.jpeg",
       "description": {
         "en": "A Quaint Mountain Retreat...",
@@ -1372,9 +1372,9 @@
       "stateKey": "nayarit",
       "lat": 21.2333,
       "lng": -104.9,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 750,
+      "population": 40000,
+      "image": "compostela-nayarit.jpeg",
       "description": {
         "en": "Lakes, Waterfalls, and Coastal Breezes Compostela is a small, historical colonial city located in the state of Nayarit. It offers a wonderful variety of natural attractions for visitors, including a volcanic crater lake, beautiful waterfalls, and close proximity to relaxing beaches.",
         "es": "Lagos, cascadas y brisa costera. Compostela es una pequeña ciudad colonial en Nayarit que ofrece una gran variedad de atractivos naturales, incluyendo un lago de cráter volcánico, hermosas cascadas y cercanía a playas tranquilas."
@@ -1387,9 +1387,9 @@
       "stateKey": "nayarit",
       "lat": 21.0833,
       "lng": -104.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1100,
+      "population": 12000,
+      "image": "jala-nayarit.jpeg",
       "description": {
         "en": "Religious Fiestas and Natural Beauty Located in Nayarit, Jala is a charming destination characterized by its stunning religious architecture, including a beautiful basilica. The town is a vibrant center for local religious fiestas and serves as an excellent base for exploring the region's lush natural balnearios and surrounding landscapes.",
         "es": "Fiestas religiosas y belleza natural. Ubicado en Nayarit, Jala es un encantador destino con impresionante arquitectura religiosa, incluida una hermosa basílica. Es un importante centro de festividades tradicionales y un excelente punto de partida para explorar balnearios naturales y paisajes exuberantes."
@@ -1402,9 +1402,9 @@
       "stateKey": "nayarit",
       "lat": 21.9,
       "lng": -105.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2,
+      "population": 2000,
+      "image": "mexcaltitan-nayarit.jpeg",
       "description": {
         "en": "The Mexican Venice. A unique island town known for its canals and cultural history.",
         "es": "La Venecia mexicana. Un pueblo insular único conocido por sus canales y su historia."
@@ -1417,9 +1417,9 @@
       "stateKey": "nayarit",
       "lat": 20.8667,
       "lng": -105.4333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 5000,
+      "image": "sayulita-nayarit.jpeg",
       "description": {
         "en": "A Bohemian Surfer's Paradise Sayulita is a lively, vibrant beach town on the Riviera Nayarit that has become a global hub for surfers. Its colorful streets are filled with local art, bohemian boutiques, and excellent seafood tacos. Whether you are hitting the great waves, paddleboarding, or enjoying the animated nightlife, Sayulita offers an effortlessly cool coastal escape.",
         "es": "Un paraíso bohemio del surf. Sayulita es un vibrante destino costero en la Riviera Nayarit que se ha convertido en un punto de encuentro global para surfistas. Sus calles coloridas están llenas de arte local, boutiques bohemias y excelentes tacos de mariscos. Ya sea surfeando, practicando paddleboard o disfrutando de su animada vida nocturna, Sayulita ofrece una escapada costera llena de estilo."
@@ -1432,9 +1432,9 @@
       "stateKey": "nuevo-leon",
       "lat": 26.5333,
       "lng": -100.5,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 400,
+      "population": 4000,
+      "image": "bustamante-nuevoleon.jpeg",
       "description": {
         "en": "Caverns and Colonial Roots. Located in Nuevo León, Bustamante is known for its spectacular caves and peaceful colonial charm. Visitors can explore the Grutas de Bustamante and enjoy traditional bread baked in wood-fired ovens.",
         "es": "Grutas y raíces coloniales. En Nuevo León, Bustamante es famoso por sus impresionantes cuevas y su ambiente tranquilo. Puedes explorar las Grutas de Bustamante y disfrutar del tradicional pan artesanal."
@@ -1447,9 +1447,9 @@
       "stateKey": "nuevo-leon",
       "lat": 25.2833,
       "lng": -99.6833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 350,
+      "population": 25000,
+      "image": "general-teran-nuevo-leon.jpeg",
       "description": {
         "en": "An Oasis of Orange Trees. Located in Nuevo León, this town is known for its citrus orchards, peaceful atmosphere, and scenic lakes.",
         "es": "Un oasis de naranjos. En Nuevo León, General Terán es famoso por sus huertas de cítricos, su ambiente tranquilo y sus lagos escénicos."
@@ -1462,9 +1462,9 @@
       "stateKey": "nuevo-leon",
       "lat": 23.9833,
       "lng": -99.7667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1900,
+      "population": 13000,
+      "image": "general-zaragoza-nuevo-leon.jpeg",
       "description": {
         "en": "A Forested Waterfall Escape. Located in Nuevo León, this mountain destination offers lush forests, rivers, and scenic waterfalls perfect for nature lovers.",
         "es": "Un escape natural entre bosques y cascadas. En Nuevo León, General Zaragoza es un destino de montaña con bosques, ríos y cascadas ideales para disfrutar la naturaleza."
@@ -1477,9 +1477,9 @@
       "stateKey": "nuevo-leon",
       "lat": 24.8667,
       "lng": -99.5667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 370,
+      "population": 85000,
+      "image": "linares-nuevo-leon.jpeg",
       "description": {
         "en": "Sweet Treats Between Two Rivers Situated in a valley between two rivers in Nuevo León, Linares is a quaint city featuring lovely colonial buildings. It is highly celebrated for its culinary treats, making it the perfect place to shop for delicious glorias (traditional milk sweets) and savory carne seca (dried meat).",
         "es": "Dulces tradicionales entre dos ríos. Ubicada en un valle entre dos ríos en Nuevo León, Linares es una encantadora ciudad con arquitectura colonial. Es especialmente famosa por su gastronomía, siendo el lugar ideal para probar las deliciosas glorias (dulces de leche tradicionales) y la sabrosa carne seca."
@@ -1492,9 +1492,9 @@
       "stateKey": "nuevo-leon",
       "lat": 25.4333,
       "lng": -100.15,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 540,
+      "population": 45000,
+      "image": "santiago-nuevo-leon.jpeg",
       "description": {
         "en": "A Nature Lover’s Oasis. Known for waterfalls like Cola de Caballo and lush mountain scenery.",
         "es": "Un oasis natural. Santiago destaca por sus cascadas como Cola de Caballo y su entorno montañoso."
@@ -1507,8 +1507,8 @@
       "stateKey": "oaxaca",
       "lat": 17.3167,
       "lng": -96.4667,
-      "elevation": null,
-      "population": null,
+      "elevation": 2060,
+      "population": 2000,
       "image": "capulalpam-de-mendez-oaxaca.jpeg",
       "description": {
         "en": "Ecotourism and Indigenous Healing. Located in Oaxaca, this Zapotec town is known for traditional medicine, beautiful forests, and sustainable tourism experiences.",
@@ -1522,9 +1522,9 @@
       "stateKey": "oaxaca",
       "lat": 18.1333,
       "lng": -96.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1580,
+      "population": 30000,
+      "image": "huautla-de-jimenez-oaxaca.jpeg",
       "description": {
         "en": "The Cloudy Home of Traditional Healing. Located in Oaxaca, this town is famous for its Mazatec culture and spiritual traditions.",
         "es": "El hogar de la medicina tradicional. En Oaxaca, Huautla de Jiménez es famosa por su cultura mazateca y sus prácticas espirituales."
@@ -1537,9 +1537,9 @@
       "stateKey": "oaxaca",
       "lat": 15.6667,
       "lng": -96.9833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 800,
+      "image": "mazunte-oaxaca.jpeg",
       "description": {
         "en": "A Bohemian Beach Retreat. Located in Oaxaca, Mazunte is known for its relaxed vibe, surfing, and eco-tourism.",
         "es": "Un refugio bohemio en la playa. En Oaxaca, Mazunte es conocido por su ambiente relajado, el surf y el ecoturismo."
@@ -1552,9 +1552,9 @@
       "stateKey": "oaxaca",
       "lat": 16.9167,
       "lng": -96.4,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1520,
+      "population": 12000,
+      "image": "mitla-oaxaca.jpeg",
       "description": {
         "en": "The Place of the Dead. Known for Zapotec ruins and geometric stone designs.",
         "es": "El lugar de los muertos. Destaca por sus ruinas zapotecas y diseños geométricos."
@@ -1567,9 +1567,9 @@
       "stateKey": "oaxaca",
       "lat": 17.5333,
       "lng": -97.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2070,
+      "population": 4500,
+      "image": "sanpedro-y-san-pablo-teposcolula-oaxaca.jpeg",
       "description": {
         "en": "An Architectural Marvel. Known for its massive open-air chapel and colonial heritage.",
         "es": "Una joya arquitectónica. Destaca por su capilla abierta monumental y su historia colonial."
@@ -1582,9 +1582,9 @@
       "stateKey": "oaxaca",
       "lat": 16.2333,
       "lng": -97.2833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1200,
+      "population": 10000,
+      "image": "santa-catarina-juquila-oaxaca.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -1597,8 +1597,8 @@
       "stateKey": "puebla",
       "lat": 18.9028,
       "lng": -98.4367,
-      "elevation": null,
-      "population": null,
+      "elevation": 1853,
+      "population": 141793,
       "image": "atlixco-puebla.jpeg",
       "description": {
         "en": "The Town of Flowers...",
@@ -1612,9 +1612,9 @@
       "stateKey": "puebla",
       "lat": 19.8333,
       "lng": -98.0333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2291,
+      "population": 19600,
+      "image": "chignahuapan-puebla.jpeg",
       "description": {
         "en": "A Year-Round Christmas Wonderland. Known for its production of Christmas ornaments, hot springs, and colorful architecture, Chignahuapan offers a festive experience all year long.",
         "es": "Navidad todo el año. Famoso por sus esferas navideñas, aguas termales y arquitectura colorida, Chignahuapan ofrece una experiencia festiva durante todo el año."
@@ -1627,8 +1627,8 @@
       "stateKey": "puebla",
       "lat": 19.0667,
       "lng": -98.3,
-      "elevation": null,
-      "population": null,
+      "elevation": 2156,
+      "population": 115000,
       "image": "cholula-puebla.jpeg",
       "description": {
         "en": "The City of 365 Churches. Located in Puebla, Cholula is home to the largest pyramid in the world by volume, topped with a colonial church. It is also famous for its vibrant food scene and cultural energy.",
@@ -1642,9 +1642,9 @@
       "stateKey": "puebla",
       "lat": 20.0167,
       "lng": -97.5167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 960,
+      "population": 56000,
+      "image": "cuetzalan-del-progreso-puebla.jpeg",
       "description": {
         "en": "Mist, Mountains, and Markets. Located in Puebla, Cuetzalan is known for its foggy mountain setting, traditional markets, waterfalls, and strong indigenous heritage.",
         "es": "Niebla, montañas y tradición. En Puebla, Cuetzalan es famoso por su ambiente montañoso, mercados tradicionales, cascadas y fuerte herencia indígena."
@@ -1657,9 +1657,9 @@
       "stateKey": "puebla",
       "lat": 20.1833,
       "lng": -98.05,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1550,
+      "population": 75000,
+      "image": "huauchinango-puebla.jpeg",
       "description": {
         "en": "A Floral Ecotourism Paradise. Located in Puebla, this town is known for its lush vegetation, dams, and strong ecotourism appeal.",
         "es": "Un paraíso floral y ecológico. En Puebla, Huauchinango destaca por su vegetación, presas y turismo de naturaleza."
@@ -1672,9 +1672,9 @@
       "stateKey": "puebla",
       "lat": 19.15,
       "lng": -98.4,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2270,
+      "population": 75000,
+      "image": "huejotzingo-puebla.jpeg",
       "description": {
         "en": "The Cradle of Evangelization. Known for its historic monastery and vibrant carnival traditions.",
         "es": "Cuna de la evangelización. Destaca por su convento histórico y su famoso carnaval lleno de tradición."
@@ -1687,9 +1687,9 @@
       "stateKey": "puebla",
       "lat": 20.2667,
       "lng": -98.2833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 920,
+      "population": 20000,
+      "image": "pahuatlan-puebla.jpeg",
       "description": {
         "en": "Ancient Paper and Magic Mountains To reach Pahuatlán in Puebla, you must travel through the stunning Sierra Mágica, a landscape filled with deep ravines, rivers, and gorges. The town is famous as the only place in Mexico that still produces \"Amate\" paper using traditional, pre-Hispanic bark-beating techniques, making it a vital guardian of ancient artisanal practices.",
         "es": "Papel ancestral y montañas mágicas. Para llegar a Pahuatlán, en Puebla, es necesario atravesar la impresionante Sierra Mágica, un paisaje de barrancas, ríos y cañones. Este pueblo es el único lugar en México donde aún se produce papel amate con técnicas prehispánicas, lo que lo convierte en un importante guardián de tradiciones ancestrales."
@@ -1702,9 +1702,9 @@
       "stateKey": "puebla",
       "lat": 19.8167,
       "lng": -97.8167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1950,
+      "population": 25000,
+      "image": "tetela-de-ocampo-puebla.jpeg",
       "description": {
         "en": "Mountain Charm and Mining History Tetela de Ocampo in Puebla blends traditional colonial small-town charm with rugged outdoor adventure. Visitors can explore the nearby Aconco waterfalls, the historic La Cañada mining town, and the Tlapalcalli museum showcasing local art. If you visit in August, you can even take part in the town's lively annual Peach Festival.",
         "es": "Encanto de montaña e historia minera. Tetela de Ocampo, en Puebla, combina el encanto colonial con aventura al aire libre. Los visitantes pueden explorar las cascadas de Aconco, el antiguo pueblo minero de La Cañada y el museo Tlapalcalli. En agosto, se celebra el animado Festival del Durazno."
@@ -1717,9 +1717,9 @@
       "stateKey": "puebla",
       "lat": 19.8167,
       "lng": -97.3667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1940,
+      "population": 105000,
+      "image": "teziutlan-puebla.jpeg",
       "description": {
         "en": "A Cloud Forest Escape. Known for misty mountains and waterfalls.",
         "es": "Un escape en bosque de niebla. Teziutlán destaca por sus montañas y cascadas."
@@ -1732,9 +1732,9 @@
       "stateKey": "puebla",
       "lat": 19.9833,
       "lng": -97.5,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1500,
+      "population": 35000,
+      "image": "tlatlauquitepec-puebla.jpeg",
       "description": {
         "en": "Serenity Meets Extreme Adventure La Magdalena Tlatlauquitepec is a quiet colonial town in Puebla, perfect for reflective strolls and peaceful exploration. However, it also caters to thrill-seekers, offering excellent rock climbing and rappelling adventures on the nearby, imposing Cerro Cabezón.",
         "es": "Serenidad y aventura extrema. La Magdalena Tlatlauquitepec es un tranquilo pueblo colonial en Puebla ideal para paseos relajados, pero también ofrece emocionantes actividades como escalada y rappel en el impresionante Cerro Cabezón."
@@ -1747,9 +1747,9 @@
       "stateKey": "puebla",
       "lat": 20.2833,
       "lng": -97.9667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 980,
+      "population": 45000,
+      "image": "xicotepec-puebla.jpeg",
       "description": {
         "en": "Waterfalls and Coffee. Known for its natural beauty and traditional cuisine.",
         "es": "Cascadas y café. Xico destaca por su naturaleza y gastronomía."
@@ -1762,9 +1762,9 @@
       "stateKey": "puebla",
       "lat": 19.9333,
       "lng": -97.9667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2000,
+      "population": 76296,
+      "image": "zacatlan-puebla.jpeg",
       "description": {
         "en": "Apples and Clocks. Known for fruit production and scenic views.",
         "es": "Manzanas y relojes. Zacatlán destaca por su producción y paisajes."
@@ -1777,8 +1777,8 @@
       "stateKey": "queretaro",
       "lat": 20.1839,
       "lng": -100.1436,
-      "elevation": null,
-      "population": null,
+      "elevation": 2490,
+      "population": 60000,
       "image": "amealco-de-bonfil-queretaro.jpeg",
       "description": {
         "en": "The Home of Mexico's Iconic Otomí Dolls...",
@@ -1792,8 +1792,8 @@
       "stateKey": "queretaro",
       "lat": 20.75,
       "lng": -99.95,
-      "elevation": null,
-      "population": null,
+      "elevation": 2050,
+      "population": 3962,
       "image": "bernal-queretaro.jpeg",
       "description": {
         "en": "Beneath the Giant Monolith. Located in Querétaro, Bernal is famous for Peña de Bernal, one of the largest monoliths in the world. Its colorful streets, artisan shops, and relaxed atmosphere make it a perfect weekend getaway, especially when paired with local wine and cheese.",
@@ -1807,8 +1807,8 @@
       "stateKey": "queretaro",
       "lat": 20.6931,
       "lng": -99.8083,
-      "elevation": null,
-      "population": null,
+      "elevation": 2000,
+      "population": 80000,
       "image": "cadereyta-de-montes-queretaro.jpeg",
       "description": {
         "en": "Gateway to the Sierra Gorda. Located in Querétaro, this charming town is the perfect base for exploring the Sierra Gorda. It offers a mix of semi-desert landscapes, colonial architecture, and access to nature adventures.",
@@ -1822,9 +1822,9 @@
       "stateKey": "queretaro",
       "lat": 21.2167,
       "lng": -99.4667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 820,
+      "population": 25000,
+      "image": "jalpan-de-serra-queretaro.jpeg",
       "description": {
         "en": "The Gateway to the Franciscan Missions Jalpan de Serra is the primary entry point to the spectacular Sierra Gorda mountains in Querétaro. It is globally renowned for its 18th-century Franciscan missions, founded by Junípero Serra. These incredible buildings are a UNESCO World Heritage site, featuring a unique \"Mestizo Baroque\" style that beautifully blends Catholic iconography with indigenous craftsmanship.",
         "es": "Puerta a las misiones franciscanas. Jalpan de Serra es la entrada principal a la Sierra Gorda en Querétaro. Es famoso mundialmente por sus misiones franciscanas del siglo XVIII, fundadas por Junípero Serra. Estos sitios, Patrimonio de la Humanidad por la UNESCO, destacan por su estilo barroco mestizo que fusiona lo indígena y lo europeo."
@@ -1837,9 +1837,9 @@
       "stateKey": "queretaro",
       "lat": 21.1333,
       "lng": -99.6333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1800,
+      "population": 25000,
+      "image": "pinal-de-amoles-queretaro.jpeg",
       "description": {
         "en": "A Mountain Canvas of Color. Located in Querétaro, this town is surrounded by the Sierra Gorda’s dramatic landscapes.",
         "es": "Un lienzo montañoso de color. En Querétaro, Pinal de Amoles está rodeado de los paisajes de la Sierra Gorda."
@@ -1852,9 +1852,9 @@
       "stateKey": "queretaro",
       "lat": 21.05,
       "lng": -99.55,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1730,
+      "population": 8000,
+      "image": "san-joaquin-queretaro.jpeg",
       "description": {
         "en": "The Capital of Huapango. Known for music traditions and mountain scenery.",
         "es": "Capital del huapango. San Joaquín es famoso por su música tradicional y paisajes montañosos."
@@ -1867,9 +1867,9 @@
       "stateKey": "queretaro",
       "lat": 20.5167,
       "lng": -99.8833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1880,
+      "population": 60000,
+      "image": "tequisquiapan-queretaro.jpeg",
       "description": {
         "en": "Wine and Cheese Paradise. Known for vineyards, hot air balloons, and relaxation.",
         "es": "Paraíso del vino y queso. Tequisquiapan destaca por sus viñedos y ambiente relajado."
@@ -1882,9 +1882,9 @@
       "stateKey": "quintana-roo",
       "lat": 18.6833,
       "lng": -88.4,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 11,
+      "population": 12527,
+      "image": "bacalar-quintanaroo.jpeg",
       "description": {
         "en": "The Lagoon of Seven Colors. Located in Quintana Roo, Bacalar is a water lover's paradise known for its breathtaking lagoon that shimmers in mesmerizing shades of turquoise and deep blue. It's a peaceful alternative to the busy Riviera Maya, offering perfect spots for snorkeling, kayaking, and swimming in open cenotes. You can also explore the 18th-century Fort of San Felipe, which was built to defend the town against pirate attacks.",
         "es": "La Laguna de los Siete Colores. Ubicado en Quintana Roo, Bacalar es un paraíso para los amantes del agua, famoso por su impresionante laguna que brilla en tonos turquesa y azul profundo. Es una alternativa tranquila a la Riviera Maya, ideal para practicar kayak, nadar o hacer snorkel en cenotes abiertos. También puedes visitar el Fuerte de San Felipe, construido en el siglo XVIII para proteger la zona de los piratas."
@@ -1897,9 +1897,9 @@
       "stateKey": "quintana-roo",
       "lat": 20.5069,
       "lng": -86.9478,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 90000,
+      "image": "cozumel-quintana-roo.jpeg",
       "description": {
         "en": "A World-Class Caribbean Dive The largest island in the Mexican Caribbean, Cozumel in Quintana Roo is a legendary destination for scuba diving and marine exploration. Boasting pristine white-sand beaches, crystal-clear waters, and a massive coral reef system, it is an underwater paradise. Visitors can also explore the Granja de Perlas, the only active pearl farm in the Caribbean.",
         "es": "Buceo de clase mundial en el Caribe. Cozumel, la isla más grande del Caribe mexicano, es un destino icónico para el buceo. Sus playas de arena blanca, aguas cristalinas y arrecifes lo convierten en un paraíso submarino. También se puede visitar la única granja de perlas activa del Caribe."
@@ -1912,9 +1912,9 @@
       "stateKey": "quintana-roo",
       "lat": 21.2316,
       "lng": -86.731,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 3,
+      "population": 20000,
+      "image": "isla-mujeres-quintana-roo.jpeg",
       "description": {
         "en": "A Cozy Island Retreat Just a short ferry ride from Cancún, Isla Mujeres offers a relaxed island escape with tranquil beaches and turquoise waters.",
         "es": "Un refugio isleño. A pocos minutos de Cancún, Isla Mujeres ofrece playas tranquilas y un ambiente relajado en aguas turquesa."
@@ -1927,9 +1927,9 @@
       "stateKey": "quintana-roo",
       "lat": 20.2114,
       "lng": -87.4654,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 8,
+      "population": 45000,
+      "image": "tulum-quintana-roo.jpeg",
       "description": {
         "en": "Mayan Ruins by the Sea. Known for beaches and cliffside ruins.",
         "es": "Ruinas mayas frente al mar. Tulum destaca por sus playas y zona arqueológica."
@@ -1942,8 +1942,8 @@
       "stateKey": "san-luis-potosi",
       "lat": 21.65,
       "lng": -99.0167,
-      "elevation": null,
-      "population": null,
+      "elevation": 290,
+      "population": 35000,
       "image": "aquismon-san-luis-potosi.jpeg",
       "description": {
         "en": "The Heart of the Huasteca Potosina...",
@@ -1957,9 +1957,9 @@
       "stateKey": "san-luis-potosi",
       "lat": 22.4,
       "lng": -99.6,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1500,
+      "population": 23000,
+      "image": "ciudad-del-maiz-san-luis-potosi.jpeg",
       "description": {
         "en": "Historic Haciendas and Deep Springs Known for ex-haciendas and natural springs.",
         "es": "Haciendas históricas y manantiales profundos. Ciudad del Maíz destaca por sus haciendas y aguas naturales."
@@ -1972,9 +1972,9 @@
       "stateKey": "san-luis-potosi",
       "lat": 23.6667,
       "lng": -100.9,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2743,
+      "population": 1395,
+      "image": "real-de-catorce-san-luis-potosi.jpeg",
       "description": {
         "en": "A Mystical Desert Ghost Town. Known for its spiritual energy and desert landscapes.",
         "es": "Un pueblo fantasma místico en el desierto. Real de Catorce destaca por su energía espiritual y paisajes desérticos."
@@ -1987,9 +1987,9 @@
       "stateKey": "san-luis-potosi",
       "lat": 21.8,
       "lng": -100.7333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1670,
+      "population": 22000,
+      "image": "santa-maria-del-rio-san-luis-potos.jpeg",
       "description": {
         "en": "The Capital of the Rebozo Famous for traditional shawls and thermal waters.",
         "es": "Capital del rebozo. Famosa por sus textiles y aguas termales."
@@ -2002,9 +2002,9 @@
       "stateKey": "san-luis-potosi",
       "lat": 22.3167,
       "lng": -100.5833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1900,
+      "population": 12000,
+      "image": "tierra-nueva-san-luis-potosi.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2017,9 +2017,9 @@
       "stateKey": "san-luis-potosi",
       "lat": 21.3833,
       "lng": -98.9833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 676,
+      "population": 51498,
+      "image": "xilitla-san-luis-potosi.jpeg",
       "description": {
         "en": "A Surrealist Jungle Dream. Known for Edward James’ surreal garden.",
         "es": "Un sueño surrealista en la selva. Xilitla destaca por el jardín surrealista de Edward James."
@@ -2032,9 +2032,9 @@
       "stateKey": "sinaloa",
       "lat": 24.4167,
       "lng": -106.6833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 375,
+      "population": 14000,
+      "image": "cosala-sinaloa.jpeg",
       "description": {
         "en": "Mining History in the Highlands Known for mining and caves.",
         "es": "Historia minera en la sierra. Cosalá destaca por sus minas y cuevas."
@@ -2047,9 +2047,9 @@
       "stateKey": "sinaloa",
       "lat": 26.4167,
       "lng": -108.6167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 82,
+      "population": 30000,
+      "image": "el-fuerte-sinaloa.jpeg",
       "description": {
         "en": "A River Fortress Known for river landscapes and indigenous culture.",
         "es": "Fortaleza junto al río. El Fuerte destaca por su cultura y paisajes."
@@ -2062,9 +2062,9 @@
       "stateKey": "sinaloa",
       "lat": 22.9833,
       "lng": -105.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 100,
+      "population": 8000,
+      "image": "el-rosario-sinaloa.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2077,9 +2077,9 @@
       "stateKey": "sinaloa",
       "lat": 25.4833,
       "lng": -107.9167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 80,
+      "population": 35000,
+      "image": "mocorito-sinaloa.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2092,9 +2092,9 @@
       "stateKey": "sinaloa",
       "lat": 23.8667,
       "lng": -106.4167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 300,
+      "population": 15000,
+      "image": "san-ignacio-sinaloa.jpeg",
       "description": {
         "en": "A Quiet Colonial Escape. Located in Sinaloa, known for peaceful streets and natural surroundings.",
         "es": "Un escape colonial tranquilo. En Sinaloa, San Ignacio ofrece calles tranquilas y naturaleza."
@@ -2107,8 +2107,8 @@
       "stateKey": "sonora",
       "lat": 27.0167,
       "lng": -108.9333,
-      "elevation": null,
-      "population": null,
+      "elevation": 381,
+      "population": 24493,
       "image": "alamos-sonora.jpeg",
       "description": {
         "en": "Silver-Mining Elegance in Sonora...",
@@ -2122,9 +2122,9 @@
       "stateKey": "sonora",
       "lat": 30.6167,
       "lng": -110.95,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 750,
+      "population": 55000,
+      "image": "magdalena-de-kino-sonora.jpeg",
       "description": {
         "en": "The Legacy of Father Kino. Located in Sonora, this town is known for its missionary history and as the final resting place of Father Eusebio Kino.",
         "es": "El legado del Padre Kino. En Sonora, este pueblo es conocido por su historia misional y por ser el lugar donde descansan los restos del Padre Eusebio Kino."
@@ -2137,9 +2137,9 @@
       "stateKey": "sonora",
       "lat": 27.95,
       "lng": -111.05,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 15000,
+      "image": "san-carlos-sonora.jpeg",
       "description": {
         "en": "Where the Desert Meets the Sea. Located in Sonora, known for beaches and dramatic landscapes.",
         "es": "Donde el desierto se encuentra con el mar. En Sonora, San Carlos destaca por sus playas y paisajes impresionantes."
@@ -2152,9 +2152,9 @@
       "stateKey": "sonora",
       "lat": 29.4333,
       "lng": -110.3833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 260,
+      "population": 10000,
+      "image": "ures-sonora.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2167,9 +2167,9 @@
       "stateKey": "tabasco",
       "lat": 18.5333,
       "lng": -92.65,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 80000,
+      "image": "frontera-tabasco.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2182,9 +2182,9 @@
       "stateKey": "tabasco",
       "lat": 17.45,
       "lng": -92.7667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 32,
+      "population": 3095,
+      "image": "tapijulapa-tabasco.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2197,9 +2197,9 @@
       "stateKey": "tabasco",
       "lat": 17.55,
       "lng": -92.95,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 60,
+      "population": 35000,
+      "image": "teapa-tabasco.jpeg",
       "description": {
         "en": "The Sultana of the Sierra. Known for lush landscapes and caves.",
         "es": "La sultana de la sierra. Teapa destaca por su vegetación y cuevas."
@@ -2212,9 +2212,9 @@
       "stateKey": "tamaulipas",
       "lat": 26.4333,
       "lng": -99.15,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 170,
+      "population": 8000,
+      "image": "mier-tamaulipas.jpeg",
       "description": {
         "en": "A Glimpse of Frontier History. Located in Tamaulipas, Mier offers historic buildings and colonial heritage.",
         "es": "Historia de frontera. En Tamaulipas, Mier conserva arquitectura histórica y tradición colonial."
@@ -2227,9 +2227,9 @@
       "stateKey": "tamaulipas",
       "lat": 23.0,
       "lng": -99.7167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 240,
+      "population": 40000,
+      "image": "tula-tamaulipas.jpeg",
       "description": {
         "en": "The Oldest City in Tamaulipas. Known for its colonial architecture.",
         "es": "La ciudad más antigua de Tamaulipas. Tula destaca por su arquitectura colonial."
@@ -2242,9 +2242,9 @@
       "stateKey": "tlaxcala",
       "lat": 19.3167,
       "lng": -97.9167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2500,
+      "population": 85000,
+      "image": "huamantla-tlaxcala.jpeg",
       "description": {
         "en": "Sawdust Carpets and Bullfighting Known for festivals.",
         "es": "Tapetes de aserrín y tradición. Huamantla destaca por sus festividades."
@@ -2257,9 +2257,9 @@
       "stateKey": "tlaxcala",
       "lat": 19.25,
       "lng": -97.8833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2650,
+      "population": 12000,
+      "image": "ixtenco-tlaxcala.jpeg",
       "description": {
         "en": "A Celebration of Corn. Known for its agricultural heritage and corn festival.",
         "es": "Una celebración del maíz. Destaca por su herencia agrícola y su festival del maíz."
@@ -2272,9 +2272,9 @@
       "stateKey": "tlaxcala",
       "lat": 19.6333,
       "lng": -98.1167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2530,
+      "population": 20000,
+      "image": "tlaxco-tlaxcala.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2287,8 +2287,8 @@
       "stateKey": "veracruz",
       "lat": 19.4528,
       "lng": -96.9639,
-      "elevation": null,
-      "population": null,
+      "elevation": 1200,
+      "population": 93911,
       "image": "coatepec-veracruz.jpeg",
       "description": {
         "en": "The Heart of Coffee Country. Located in Veracruz, Coatepec is considered the coffee capital of Mexico. Surrounded by lush mountains, it offers a vibrant café culture, colonial architecture, and rich flavors that define the region.",
@@ -2302,9 +2302,9 @@
       "stateKey": "veracruz",
       "lat": 18.8878,
       "lng": -96.9369,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 924,
+      "population": 220000,
+      "image": "cordoba-veracruz.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2317,9 +2317,9 @@
       "stateKey": "veracruz",
       "lat": 19.0833,
       "lng": -97.05,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1544,
+      "population": 45000,
+      "image": "coscomatepec-veracruz.jpeg",
       "description": {
         "en": "Cigars and Mountain Views. Located near Pico de Orizaba, Coscomatepec is known for its cigar-making tradition and scenic mountain landscapes.",
         "es": "Puros y vistas de montaña. Cerca del Pico de Orizaba, Coscomatepec es famoso por su tradición tabacalera y paisajes montañosos."
@@ -2332,9 +2332,9 @@
       "stateKey": "veracruz",
       "lat": 19.6833,
       "lng": -96.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1530,
+      "population": 15000,
+      "image": "naolinco-de-victoria-veracruz.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2347,9 +2347,9 @@
       "stateKey": "veracruz",
       "lat": 18.85,
       "lng": -97.1,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1235,
+      "population": 123182,
+      "image": "orizaba-veracruz.jpeg",
       "description": {
         "en": "Rivers, Parks, and Colonial Grace. Located in Veracruz, Orizaba offers beautiful parks, rivers, and historic architecture beneath Mexico’s highest mountain.",
         "es": "Ríos, parques y elegancia colonial. En Veracruz, Orizaba ofrece parques, ríos y arquitectura histórica con vistas al Pico de Orizaba."
@@ -2362,9 +2362,9 @@
       "stateKey": "veracruz",
       "lat": 20.4467,
       "lng": -97.3197,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 169,
+      "population": 159910,
+      "image": "papantla-veracruz.jpeg",
       "description": {
         "en": "The Dance of the Flyers Famous for the Voladores ritual.",
         "es": "La danza de los voladores. Papantla es famoso por este ritual ancestral."
@@ -2377,9 +2377,9 @@
       "stateKey": "veracruz",
       "lat": 19.4,
       "lng": -97.0167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1298,
+      "population": 20000,
+      "image": "xico-veracruz.jpeg",
       "description": {
         "en": "Waterfalls and Coffee. Known for its natural beauty and traditional cuisine.",
         "es": "Cascadas y café. Xico destaca por su naturaleza y gastronomía."
@@ -2392,9 +2392,9 @@
       "stateKey": "veracruz",
       "lat": 20.15,
       "lng": -97.5833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 375,
+      "population": 8000,
+      "image": "zozocolco-de-hidalgo-veracruz.jpeg",
       "description": {
         "en": "Totonac Traditions and Lanterns. Known for its balloon festival and indigenous heritage.",
         "es": "Tradiciones totonacas y globos. Zozocolco destaca por su festival de globos y su cultura indígena."
@@ -2407,9 +2407,9 @@
       "stateKey": "yucatan",
       "lat": 21.0167,
       "lng": -88.3167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 65,
+      "population": 15000,
+      "image": "espita-yucatan.jpeg",
       "description": {
         "en": "The Pearl of the Orient. Located in Yucatán, Espita is a charming colonial town with historic churches, a former convent, and access to nearby haciendas and Mayan ruins like Ek Balam.",
         "es": "La perla del oriente. En Yucatán, Espita es un encantador pueblo colonial con iglesias históricas, un antiguo convento y acceso a haciendas y zonas arqueológicas como Ek Balam."
@@ -2422,9 +2422,9 @@
       "stateKey": "yucatan",
       "lat": 20.9319,
       "lng": -89.0139,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 24,
+      "population": 19834,
+      "image": "izamal-yucatan.jpeg",
       "description": {
         "en": "The Yellow City. Famous for its yellow-painted buildings and Mayan-Spanish heritage.",
         "es": "La ciudad amarilla. Destaca por sus edificios amarillos y su herencia maya y colonial."
@@ -2437,9 +2437,9 @@
       "stateKey": "yucatan",
       "lat": 20.3833,
       "lng": -89.3833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 18,
+      "population": 12000,
+      "image": "mani-yucatan.jpeg",
       "description": {
         "en": "A Taste of Mayan Heritage. Located in Yucatán, Maní is rich in history and known for traditional Mayan cuisine.",
         "es": "Un sabor de herencia maya. En Yucatán, Maní destaca por su historia y su deliciosa gastronomía tradicional."
@@ -2452,9 +2452,9 @@
       "stateKey": "yucatan",
       "lat": 21.0833,
       "lng": -89.2833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 22,
+      "population": 30000,
+      "image": "motul-yucatan.jpeg",
       "description": {
         "en": "The Birthplace of Huevos Motuleños. Known for its cuisine and colonial charm.",
         "es": "Cuna de los huevos motuleños. Famoso por su gastronomía y encanto colonial."
@@ -2467,9 +2467,9 @@
       "stateKey": "yucatan",
       "lat": 21.1667,
       "lng": -90.0333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 2500,
+      "image": "sisal-yucatan.jpeg",
       "description": {
         "en": "A Quiet Port of Ecotourism Known for beaches and mangroves.",
         "es": "Puerto tranquilo de ecoturismo. Sisal destaca por su naturaleza."
@@ -2482,9 +2482,9 @@
       "stateKey": "yucatan",
       "lat": 20.2,
       "lng": -89.2833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 45,
+      "population": 55000,
+      "image": "tekax-yucatan.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2497,9 +2497,9 @@
       "stateKey": "yucatan",
       "lat": 20.6897,
       "lng": -88.2022,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 24,
+      "population": 85460,
+      "image": "valladolid-yucatan.jpeg",
       "description": {
         "en": "The Pearl of the Orient. Known for colonial charm and cenotes.",
         "es": "La perla del oriente. Valladolid destaca por su arquitectura colonial y cenotes."
@@ -2512,9 +2512,9 @@
       "stateKey": "zacatecas",
       "lat": 22.75,
       "lng": -102.5167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2020,
+      "population": 165000,
+      "image": "guadalupe-zacatecas.jpeg",
       "description": {
         "en": "A Treasury of Viceregal Art Known for colonial art.",
         "es": "Tesoro de arte virreinal. Guadalupe destaca por su patrimonio."
@@ -2527,9 +2527,9 @@
       "stateKey": "zacatecas",
       "lat": 22.65,
       "lng": -102.9833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2050,
+      "population": 65000,
+      "image": "jerez-de-garcia-salinas-zacatecas.jpeg",
       "description": {
         "en": "Festivities and Provincial Elegance. Known for its architecture and lively festivals.",
         "es": "Fiestas y elegancia provincial. Destaca por su arquitectura y celebraciones tradicionales."
@@ -2542,9 +2542,9 @@
       "stateKey": "zacatecas",
       "lat": 21.3667,
       "lng": -102.85,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2090,
+      "population": 30000,
+      "image": "nochistlan-de-mejia-zacatecas.jpeg",
       "description": {
         "en": "Where the Music Never Stops. Known for its lively culture, music traditions, and colonial charm.",
         "es": "Donde la música nunca se detiene. Nochistlán destaca por su ambiente festivo, su música tradicional y su encanto colonial."
@@ -2557,9 +2557,9 @@
       "stateKey": "zacatecas",
       "lat": 22.2833,
       "lng": -101.5667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2185,
+      "population": 62000,
+      "image": "pinos-zacatecas.jpeg",
       "description": {
         "en": "A Festive Stop on the Silver Route. Known for its mining history and cultural celebrations.",
         "es": "Un punto festivo en la Ruta de la Plata. Pinos es conocido por su historia minera y sus tradiciones culturales."
@@ -2572,9 +2572,9 @@
       "stateKey": "zacatecas",
       "lat": 23.6333,
       "lng": -103.6333,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 2350,
+      "population": 35000,
+      "image": "sombrerete-zacatecas.jpeg",
       "description": {
         "en": "A Quiet Colonial Escape. Known for historic churches and nearby Sierra de Órganos.",
         "es": "Un refugio colonial. Sombrerete destaca por sus iglesias históricas y su cercanía a la Sierra de Órganos."
@@ -2587,9 +2587,9 @@
       "stateKey": "zacatecas",
       "lat": 21.4667,
       "lng": -103.4833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1900,
+      "population": 12000,
+      "image": "teul-de-gonzalez-ortega-zacatecas.jpeg",
       "description": {
         "en": "The Town of Three Cultures. Known for archaeology and mezcal.",
         "es": "El pueblo de tres culturas. Teúl destaca por su arqueología y mezcal."
@@ -2602,9 +2602,9 @@
       "stateKey": "zacatecas",
       "lat": 22.3583,
       "lng": -102.8833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1950,
+      "population": 35000,
+      "image": "villanueva-zacatecas.jpeg",
       "description": {
         "en": "A Cultural Crossroads. Known for history and archaeology.",
         "es": "Un cruce cultural. Villanueva destaca por su historia y arqueología."
@@ -2617,9 +2617,9 @@
       "stateKey": "nayarit",
       "lat": 21.0333,
       "lng": -104.3667,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 950,
+      "population": 35000,
+      "image": "ixtlan-del-rio-nayarit.jpeg",
       "description": {
         "en": "Mellow Vibes and Ancient Ruins. Offers archaeological sites and relaxed atmosphere.",
         "es": "Ambiente relajado y ruinas antiguas. Combina arqueología con tranquilidad."
@@ -2632,9 +2632,9 @@
       "stateKey": "nayarit",
       "lat": 21.5333,
       "lng": -105.2833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 5,
+      "population": 15000,
+      "image": "san-blas-nayarit.jpeg",
       "description": {
         "en": "A Historic Port of Nature and Legend. Known for birdwatching, mangroves, and coastal charm.",
         "es": "Un puerto histórico lleno de naturaleza y leyenda. San Blas destaca por sus manglares, aves y encanto costero."
@@ -2647,9 +2647,9 @@
       "stateKey": "nayarit",
       "lat": 21.1833,
       "lng": -104.4833,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 1000,
+      "population": 22000,
+      "image": "ahuacatlan-nayarit.jpeg",
       "description": {
         "en": "",
         "es": ""
@@ -2662,9 +2662,9 @@
       "stateKey": "nayarit",
       "lat": 21.5833,
       "lng": -106.5167,
-      "elevation": null,
-      "population": null,
-      "image": "",
+      "elevation": 10,
+      "population": 500,
+      "image": "puerto-balleto-nayarit.jpeg",
       "description": {
         "en": "From Penal Colony to Paradise Located in the Islas Marías, transformed into a protected biosphere and tourism destination.",
         "es": "De colonia penal a paraíso. Puerto Balleto se transformó en un destino ecológico protegido."

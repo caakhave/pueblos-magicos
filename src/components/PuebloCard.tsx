@@ -12,7 +12,7 @@ export default function PuebloCard({ pueblo, lang }: Props) {
   const description = pueblo.description[lang] || t.noDescription
 
   return (
-    <div className="bg-white rounded-lg overflow-hidden shadow border border-daring/20 flex flex-col">
+    <div className="bg-white rounded-lg overflow-hidden shadow border border-daring/20 flex flex-col hover:shadow-md">
       {/* Image */}
       <div className="relative w-full" style={{ paddingTop: '56.25%' /* 16:9 */ }}>
         {pueblo.image ? (
@@ -41,26 +41,34 @@ export default function PuebloCard({ pueblo, lang }: Props) {
           </span>
         </div>
 
-        {/* Stats */}
-        <div className="flex gap-4 text-xs text-dormer-brown">
-          {pueblo.population !== null && (
-            <span>
-              <span className="font-semibold">{t.population}:</span>{' '}
-              {pueblo.population.toLocaleString()}
-            </span>
-          )}
-          {pueblo.elevation !== null && (
-            <span>
-              <span className="font-semibold">{t.elevation}:</span>{' '}
-              {pueblo.elevation.toLocaleString()}{t.metersAbbr}
-            </span>
-          )}
-        </div>
-
         {/* Description */}
         <p className="text-sm text-tricorn-black/80 leading-relaxed flex-1">
           {description}
         </p>
+
+        {/* Metadata footer */}
+        <div className="mt-3 pt-3 border-t border-daring/10 flex flex-wrap gap-x-4 gap-y-1">
+          <span className="flex items-center gap-1 text-[11px] text-cherry-tomato">
+            <span className="font-semibold uppercase tracking-wide">Lat</span>
+            <span>{pueblo.lat.toFixed(4)}</span>
+          </span>
+          <span className="flex items-center gap-1 text-[11px] text-cherry-tomato">
+            <span className="font-semibold uppercase tracking-wide">Lng</span>
+            <span>{pueblo.lng.toFixed(4)}</span>
+          </span>
+          {pueblo.elevation !== null && (
+            <span className="flex items-center gap-1 text-[11px] text-cherry-tomato">
+              <span className="font-semibold uppercase tracking-wide">{t.elevation}</span>
+              <span>{pueblo.elevation.toLocaleString()}{t.metersAbbr}</span>
+            </span>
+          )}
+          {pueblo.population !== null && (
+            <span className="flex items-center gap-1 text-[11px] text-cherry-tomato">
+              <span className="font-semibold uppercase tracking-wide">{t.population}</span>
+              <span>{pueblo.population.toLocaleString()}</span>
+            </span>
+          )}
+        </div>
       </div>
     </div>
   )

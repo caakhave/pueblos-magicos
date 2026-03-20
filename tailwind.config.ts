@@ -9,7 +9,7 @@ export default {
     extend: {
       colors: {
         'cherry-tomato': '#A13228',
-        'fresco-cream': '#C9B99A',
+        'fresco-cream': '#F5EFE6',
         'georgian-blue': '#7AB9CA',
         'daring': '#C8573A',
         'tricorn-black': '#2B2B2B',
@@ -17,6 +17,8 @@ export default {
       },
       fontFamily: {
         playfair: ['"Playfair Display"', 'serif'],
+        cinzel: ['"Cinzel"', 'serif'],
+        garamond: ['"Cormorant Garamond"', 'serif'],
       },
     },
   },
